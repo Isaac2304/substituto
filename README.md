@@ -15,7 +15,7 @@
         import { getFirestore, doc, getDoc, setDoc, updateDoc, deleteDoc, onSnapshot, collection, addDoc, query } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
 
         // Environment variables setup
-        const appId = typeof __app_id !== 'undefined' ? __app_id : 'veck-io-game';
+        const appId = typeof __app_id !== 'undefined' ? __app_id : 'veck-game';
         const firebaseConfig = typeof __firebase_config !== 'undefined' 
             ? JSON.parse(__firebase_config) 
             : {
