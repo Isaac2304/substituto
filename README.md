@@ -258,7 +258,7 @@
             
             <div class="text-center">
                 <h1 class="font-orbitron text-3xl md:text-5xl font-extrabold tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-pink-500 to-purple-500">
-                    VECK<span class="text-cyan-400 text-2xl md:text-3xl">.IO</span>
+                    substituto<span class="text-cyan-400 text-2xl md:text-3xl">.IO</span>
                 </h1>
                 <p class="text-slate-400 text-[10px] md:text-xs font-mono uppercase tracking-widest mt-1">Multi-Map Arena & Enhanced Online Multiplayer</p>
             </div>
